@@ -1,2 +1,2 @@
 # test-cpp
-test cpp to jumpstart c++ developemtn
+test cpp to jumpstart c++ development
